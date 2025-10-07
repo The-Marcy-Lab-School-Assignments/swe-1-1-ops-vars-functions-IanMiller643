@@ -209,7 +209,7 @@ Make it so it logs:
 
 ```plaintext
 Hello Zo, are you feeling happy today?
-Oh no, I'm sorry you're feeling sad today.
+Oh no, I'm sorry you're feeling sad today
 ```
 
 Fix the function so:
@@ -217,4 +217,4 @@ Fix the function so:
 - implicit globals are not used
 - `const` and `let` are used correctly
 - We use templates over concatenation
-- In the end, you will have 4 variable assignments: 3 initializations and 1 reassignment
+- In the end, you will have 4 variable assignments: 3 initializations and 1 reassignment 
